@@ -1,0 +1,13 @@
+console.log("Hello world");
+console.log("Coding Gurus ! " + "Time for some fun~!");
+var found = true;
+var grade = 88.6;
+var firstName = "동길";
+var lastName = "남";
+var myData = 50.0;
+console.log(myData);
+myData = "Common";
+console.log(myData);
+console.log(found);
+console.log(grade);
+console.log("Hi " + firstName + " " + lastName);
