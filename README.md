@@ -7,7 +7,8 @@
 
 - tsc transcompiling
 <pre>
-  <code>$ tsc -noEmitOnError -t es5 {name}.ts
+  <code>
+$ tsc -noEmitOnError -t es5 {name}.ts
     or
 $ tsc --init
 $ tsc {name}.ts</code>
