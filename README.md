@@ -20,3 +20,8 @@ $ tsc {name}.ts</code>
 $ tsc --build --clean
   </code>
 </pre>
+
+- run js
+<pre>
+<code>$ node {name}.js</code>
+</pre>
