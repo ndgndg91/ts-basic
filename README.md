@@ -7,17 +7,15 @@
 
 - tsc transcompiling
 <pre>
-  <code>    
-    $ tsc -noEmitOnError -t es5 {name}.ts
+  <code>$ tsc -noEmitOnError -t es5 {name}.ts
     or
-    $ tsc --init
-    $ tsc {name}.ts
-  </code>
+$ tsc --init
+$ tsc {name}.ts</code>
 </pre>
 
 - tsc clean
 <pre>
   <code>
-  tsc --build --clean
+$ tsc --build --clean
   </code>
 </pre>
